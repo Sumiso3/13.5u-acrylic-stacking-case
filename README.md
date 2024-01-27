@@ -1,6 +1,11 @@
 for tad pole pin mount 13.5u case acrylic stacking case
 
-アクリル積層ケース用のSVCファイルです。  
+幅13.5uタッドポールピンマウント仕様のアクリル積層ケース用のSVCファイルです。  
+cocot keebs様のbally  
+https://cocotkeebs.com/products/bally-extra  
+coffee break keyboard様のbully  
+https://www.cbkbd.com/product/bully  
+に対応しています。
 elecrowでの発注を想定しており他のアクリルカットサービスでは使用できない場合があります。  
 
 ![title](image/km-bully001.JPG "bully")
