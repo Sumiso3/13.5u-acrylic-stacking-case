@@ -5,7 +5,7 @@ elecrowでの発注を想定しており他のアクリルカットサービス�
 
 ![画像の説明](image/km-bully001.JPG "bully")
 
-テストをお願いした河村亮介様@Hottyhotteaに撮影して頂きました。
+テストをお願いした河村亮介@Hottyhottea様に撮影して頂きました。
 
 〇 bally-compatible 2700x4492.zip
 
