@@ -5,7 +5,7 @@ elecrowでの発注を想定しており他のアクリルカットサービス�
 
 ![title](image/km-bully001.JPG "bully")
 
-テストをお願いした河村亮介@Hottyhottea様に撮影して頂きました。
+テストをお願いした河村亮介@Hottyhottea様https://twitter.com/Hottyhotteaに撮影して頂きました。
 
 〇 bally-compatible 2700x4492.zip
 
@@ -27,7 +27,9 @@ elecrow発注時は 外形270.0mm x 544.2mm 厚さは3mmで指定してくださ
 組み立てに必要なもの  
 
 Tadpole pin  
+https://geon.works/products/tadpole  
 Universal daughter board  
+https://www.elecrow.com/unified-c4-daughterboard-and-molex-pico-ezmate-cable.html  
 M2 六角スペーサー   
 https://www.hirosugi-net.co.jp/shop/c/c11101210/   
 　15〜18mm x8  
