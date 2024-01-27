@@ -56,7 +56,7 @@ M2ナット x4
 
 
 組み上げ  
-![overview](image/km-bully001.JPG "bally")
+![overview](image/bally-casedata.png "bally")
 使用するのは全部で8枚です。  
 映り込み防止の為保護シールが付いたままの状態で撮影していますが、組み上げは保護シールを剥がしてから行って下さい。  
 
