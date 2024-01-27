@@ -3,7 +3,7 @@ for tad pole pin mount 13.5u case acrylic stacking case
 アクリル積層ケース用のSVCファイルです。  
 elecrowでの発注を想定しており他のアクリルカットサービスでは使用できない場合があります。  
 
-![画像の説明](image/km-bully001.JPG "bully")
+![title](image/km-bully001.JPG "bully")
 
 テストをお願いした河村亮介@Hottyhottea様に撮影して頂きました。
 
@@ -56,6 +56,7 @@ M2ナット x4
 
 
 組み上げ  
+![overview](image/km-bully001.JPG "bally")
 使用するのは全部で8枚です。  
 映り込み防止の為保護シールが付いたままの状態で撮影していますが、組み上げは保護シールを剥がしてから行って下さい。  
 
