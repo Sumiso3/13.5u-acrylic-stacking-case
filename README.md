@@ -3,6 +3,8 @@ for tad pole pin mount 13.5u case acrylic stacking case
 アクリル積層ケース用のSVCファイルです。  
 elecrowでの発注を想定しており他のアクリルカットサービスでは使用できない場合があります。  
 
+https://photos.google.com/share/AF1QipNc-NO57A3X3Ni68cY_G9TMd-PSb0HBLkmW37PkIrudvF6lpns7npRSJRqzwsNzjQ?key=M0JXbXY2VlZDTlRKRm5yblFZSUVfQ2FRZHBXR2JR  
+
 〇 bally-compatible 2700x4492.zip
 
 aki27様設計のキーボードbally用トッププレートが付属しています。  
