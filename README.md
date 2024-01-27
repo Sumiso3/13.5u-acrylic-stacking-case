@@ -28,7 +28,7 @@ elecrow発注時は 外形270.0mm x 544.2mm 厚さは3mmで指定してくださ
 
 Tadpole pin  
 Universal daughter board  
-M2 六角スペーサー  
+M2 六角スペーサー https://www.hirosugi-net.co.jp/shop/c/c11101210/ 
 　15〜18mm x8  
 　10〜12mm x6  
 　5〜6mm x2  
